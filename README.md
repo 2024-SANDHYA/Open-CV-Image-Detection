@@ -23,4 +23,5 @@ pip install opencv-python opencv-python-headless matplotlib
 
 ## Output
 When you run the code, keeping in mind you have installed all the underlying dependencies, this is the output you will get
-![image](https://github.com/user-attachments/assets/82060184-20de-4029-8982-22f6001eee47)
+
+<img src="https://github.com/user-attachments/assets/82060184-20de-4029-8982-22f6001eee47" alt="image" width="400"/>
